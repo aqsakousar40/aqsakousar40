@@ -39,7 +39,7 @@ A stylish fashion landing page built with HTML and modern layout techniques.
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,github,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,figma,vercel,github,git,vscode,npm,postman" />
 </p>
 
 ---
