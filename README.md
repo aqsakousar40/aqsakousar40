@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aqsa Kousar</h1>
-<h3 align="center">Full Stack Developer | Building Clean & Responsive Web Applications</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aqsa+Kousar;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Web+Apps" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">💻 Building Clean & Responsive Web Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aqsakousar40&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
