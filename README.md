@@ -9,9 +9,13 @@
 
 ### 👋 About Me
 
-- 💻 I'm a **Full Stack Developer**, currently focused on **Frontend Development** and growing my **Backend** skills.
-- 🌱 Currently learning **Node.js, Express & MongoDB** to become a complete MERN Stack Developer.
-- 🎯 I enjoy building **clean, responsive, and user-friendly** web applications.
+💜 I'm **Aqsa Kousar**, a **Full Stack Developer** focused on building clean, responsive, and user-friendly web applications.
+
+- 🎓 BS Computer Science Student at **GC University Faisalabad**
+- 🌱 Currently learning **Node.js, Express, MongoDB & REST APIs**
+- 🚀 Passionate about building responsive, scalable and user-friendly web apps
+- 📍 Faisalabad, Pakistan
+- 💬 Ask me about **HTML, CSS, JavaScript, React & MERN Stack**
 - 📫 Reach me at: **aqsakousar40@gmail.com**
 
 ---
