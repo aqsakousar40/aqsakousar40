@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Aqsa Kousar
 
-## 💻 Full Stack Developer | React.js | Node.js | MERN Stack
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Improving" alt="Typing SVG" />
 </p>
@@ -14,18 +12,15 @@
 
 ## 👩‍💻 About Me
 
-I'm **Aqsa Kousar**, a Full Stack Developer passionate about building clean, responsive, and user-friendly web applications.
+I'm **Aqsa Kousar**, a Computer Science student and Full Stack Developer passionate about building clean, responsive, and user-friendly web applications.
 
 - 🎓 BS Computer Science Student
-- 💻 Focused on Full Stack Web Development
-- ⚛️ Building modern interfaces with React.js
-- 🟢 Developing backend applications with Node.js & Express.js
-- 🗄️ Working with MongoDB, MySQL & Firebase
-- 🔌 Working with REST APIs and API integration
-- 🎨 Interested in modern UI/UX and responsive design
-- 🚀 Passionate about turning ideas into functional web applications
-- 🌱 Continuously learning new technologies and improving my development skills
-- 💡 Interested in creating scalable, maintainable and user-focused applications
+- ⚛️ Building modern web applications with React.js
+- 🟢 Working with Node.js and Express.js
+- 🗄️ Working with MongoDB, MySQL and Firebase
+- 🔌 Working with REST APIs
+- 🚀 Passionate about building real-world projects
+- 🌱 Continuously learning and improving my development skills
 
 ---
 
@@ -33,73 +28,49 @@ I'm **Aqsa Kousar**, a Full Stack Developer passionate about building clean, res
 
 ### 🌦️ Weatherly — Weather Dashboard
 
-A responsive weather dashboard built with React.js that provides real-time weather information, city search, location-based weather and forecast data.
+A responsive weather dashboard providing real-time weather information, city search, location-based weather and forecast data.
 
-**Tech Stack:**
+**Tech:** React.js • Vite • JavaScript • Weather API • Firebase
 
-`React.js` `Vite` `JavaScript` `Weather API` `Firebase` `CSS`
-
-🔗 **Repository:**  
-https://github.com/aqsakousar40/weatherly-reactapp
+🔗 [View Repository](https://github.com/aqsakousar40/weatherly-reactapp)
 
 ---
 
 ### 🍔 FoodRush — Restaurant & Food Ordering UI
 
-A modern React-based restaurant and food ordering interface with a clean layout, responsive design and smooth user interactions.
+A modern restaurant and food ordering interface with a clean layout, responsive design and smooth user interactions.
 
-**Tech Stack:**
+**Tech:** React.js • Vite • JavaScript • CSS • Framer Motion
 
-`React.js` `Vite` `JavaScript` `CSS` `Framer Motion`
-
-🔗 **Repository:**  
-https://github.com/aqsakousar40/FoodRush-react-app
+🔗 [View Repository](https://github.com/aqsakousar40/FoodRush-react-app)
 
 ---
 
 ### 💼 Developer Portfolio
 
-A modern personal developer portfolio designed to showcase my projects, technical skills, services and development journey.
+A modern personal portfolio showcasing projects, technical skills, services and my development journey.
 
-**Tech Stack:**
+**Tech:** React.js • Vite • JavaScript • Motion • CSS • Firebase
 
-`React.js` `Vite` `JavaScript` `Motion` `CSS` `Firebase`
-
-🔗 **GitHub Profile:**  
-https://github.com/aqsakousar40
+🔗 [View Profile](https://github.com/aqsakousar40)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Responsive Web Design
-
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
-- Node.js
-- Express.js
-- Server-side JavaScript
-- REST API Development
-- Backend Application Development
 
 ---
 
@@ -109,13 +80,6 @@ https://github.com/aqsakousar40
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-- MongoDB
-- MySQL
-- Firebase
-- Firestore
-- Database Integration
-- CRUD Operations
-
 ---
 
 ### 🔌 APIs & Testing
@@ -123,14 +87,6 @@ https://github.com/aqsakousar40
 <p>
   <img src="https://skillicons.dev/icons?i=postman" />
 </p>
-
-- REST APIs
-- JSON
-- Fetch API
-- API Integration
-- Postman
-- API Testing
-- Error Handling
 
 ---
 
@@ -140,13 +96,6 @@ https://github.com/aqsakousar40
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
-- Git
-- GitHub
-- Visual Studio Code
-- npm
-- Version Control
-- Package Management
-
 ---
 
 ### 🎨 Design & UI
@@ -155,100 +104,45 @@ https://github.com/aqsakousar40
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-- Figma
-- UI/UX Design
-- Responsive Design
-- Modern Web Interfaces
-- Component-based UI
-- User-friendly layouts
-
 ---
 
-### 🚀 Deployment & Hosting
+### 🚀 Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
-- Vercel
-- GitHub
-- Production Builds
-- Website Deployment
+---
+
+## 💡 What I Do
+
+- 🌐 Full Stack Web Development
+- ⚛️ React.js Development
+- 📱 Responsive Web Design
+- 🎨 UI/UX Implementation
+- 🔥 Firebase Integration
+- 🔌 REST API Integration
+- 🚀 Website Deployment
 
 ---
 
 ## 📚 Currently Learning
 
-I'm continuously expanding my knowledge in modern web development.
-
 - ⚛️ Advanced React.js
 - 🟦 TypeScript
 - ▲ Next.js
 - 🟢 Advanced Node.js & Express.js
-- 🍃 MongoDB
 - 🔐 Authentication & Authorization
 - 🔌 REST API Architecture
 - 🏗️ Full Stack Application Architecture
-- ⚡ Web Performance Optimization
-- 🎨 Advanced UI/UX Design
-
----
-
-## 💡 What I Do
-
-### 🌐 Full Stack Web Development
-Building complete web applications with modern frontend and backend technologies.
-
-### ⚛️ React Development
-Creating reusable, responsive and interactive interfaces using React.js.
-
-### 📱 Responsive Web Design
-Designing websites that work smoothly across desktop, tablet and mobile devices.
-
-### 🎨 UI/UX Implementation
-Turning modern design concepts into functional and user-friendly interfaces.
-
-### 🔥 Firebase Integration
-Working with Firebase and Firestore for application data and backend services.
-
-### 🔌 API Integration
-Connecting frontend applications with REST APIs and handling real-time data.
-
-### 🚀 Website Deployment
-Deploying and managing modern web applications using GitHub and Vercel.
-
----
-
-## 🧠 Development Approach
-
-I focus on building applications that are:
-
-- ✨ Clean and modern
-- 📱 Fully responsive
-- ⚡ Fast and efficient
-- 🧩 Component-based
-- 🔄 Reusable and maintainable
-- 🎨 User-friendly
-- 🔐 Secure where applicable
-- 🚀 Production-ready
 
 ---
 
 ## 🌱 My Development Journey
 
-My journey in web development started with learning the fundamentals of:
+I started my web development journey with **HTML, CSS and JavaScript** and gradually moved into modern frontend and full stack development.
 
-`HTML` → `CSS` → `JavaScript`
-
-I then moved into modern frontend development with:
-
-`React.js` → `Vite` → `APIs` → `Firebase`
-
-Currently, I'm expanding my full stack knowledge with:
-
-`Node.js` → `Express.js` → `MongoDB` → `REST APIs` → `Authentication`
-
-My goal is to continue building real-world projects and become a stronger full stack developer.
+Currently, I'm focused on building real-world applications with **React.js, Node.js, Express.js, databases and REST APIs** while continuously improving my skills.
 
 ---
 
@@ -264,7 +158,7 @@ My goal is to continue building real-world projects and become a stronger full s
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqsakousar40&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
@@ -276,13 +170,11 @@ My goal is to continue building real-world projects and become a stronger full s
 
 - 🚀 Build more real-world full stack projects
 - ⚛️ Improve advanced React.js skills
-- 🟢 Strengthen Node.js & Express.js knowledge
-- 🗄️ Improve database management skills
+- 🟢 Strengthen Node.js & Express.js
+- 🗄️ Improve database skills
 - 🔌 Build and consume REST APIs
-- 🔐 Learn authentication and application security
+- 🔐 Learn authentication and security
 - 🎨 Create better UI/UX experiences
-- 📱 Build fully responsive applications
-- 🌍 Deploy and maintain production-ready websites
 - 💼 Grow as a professional full stack developer
 
 ---
@@ -306,12 +198,6 @@ My goal is to continue building real-world projects and become a stronger full s
 ## 💬 Ask Me About
 
 `React.js` `JavaScript` `HTML5` `CSS3` `Vite` `Firebase` `REST APIs` `Node.js` `Express.js` `MongoDB` `MySQL` `Git` `GitHub`
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning simple ideas into clean, responsive and functional web experiences. 🚀
 
 ---
 
